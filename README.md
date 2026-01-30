@@ -66,7 +66,3 @@ npm start
 ```
 
 3. Open http://localhost:3000 in your browser
-
-## Deployment
-
-See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed deployment instructions.
