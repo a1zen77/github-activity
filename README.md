@@ -66,3 +66,6 @@ npm start
 ```
 
 3. Open http://localhost:3000 in your browser
+
+### This project is a solution to
+https://roadmap.sh/projects/github-user-activity
