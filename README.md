@@ -35,7 +35,7 @@ A modern, full-stack web application to track and visualize GitHub user activity
 
 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone <[your-repo-url](https://github.com/a1zen77/github-activity)>
 cd github-activity-app
 ```
 
